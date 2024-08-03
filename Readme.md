@@ -1,5 +1,7 @@
 # Magic Sand
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
 A project that demonstrates the use of Pygame to create magic sand. The sand will fall and settle on the terrain, and the colors of the grains have been modified to create a more dynamic effect.
 
 ## Installation
