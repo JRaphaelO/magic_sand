@@ -25,3 +25,4 @@ To run the project, execute:
 
 ```bash
 python main.py
+```
